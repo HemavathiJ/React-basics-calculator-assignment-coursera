@@ -1,2 +1,2 @@
 # React-basics-assignment-coursera
-React Basics Assignment coursera
+Calculator APP basics assignment
